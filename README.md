@@ -4,4 +4,9 @@ Web based social networking site for small group of people where people can post
 
 
 ## Technology
-Flask (Python Micro framework), JavaScript, HTML, CSS
+* Flask (Python Micro framework)
+* JavaScript
+* Peewee
+* SQLIte
+* HTML 
+* CSS
